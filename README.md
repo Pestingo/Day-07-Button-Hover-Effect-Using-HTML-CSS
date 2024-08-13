@@ -10,5 +10,5 @@ Day-07-Button-Hover-Effect-Using-HTML-CSS
 
 🚀 Live Demo: Check out the live demo here
 
-🔗 GitHub Repository: Explore the code on GitHub
-
+🔗 GitHub Repository: [Explore the code on GitHub
+](https://github.com/Pestingo/Day-07-Button-Hover-Effect-Using-HTML-CSS.git)
